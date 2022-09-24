@@ -1,2 +1,2 @@
 <?php
-eho "anwaryasen"
+echo "anwaryasen"
